@@ -1,0 +1,250 @@
+{
+    "Sitio": {
+        "Galinhas": {
+            "Gastos": [
+                {
+                    "Valor": 18.0,
+                    "Descricao": "ProVenrme",
+                    "Data": "05/09/2023"
+                },
+                {
+                    "Valor": 174.0,
+                    "Descricao": "farelo milho",
+                    "Data": "06/09/2023"
+                },
+                {
+                    "Valor": 150.0,
+                    "Descricao": "farelo soja",
+                    "Data": "06/09/2023"
+                },
+                {
+                    "Valor": 1.0,
+                    "Descricao": "teste",
+                    "Data": "09/09/2023"
+                },
+                {
+                    "Valor": 491.81,
+                    "Descricao": "Ração galinhas",
+                    "Data": "23/09/2023"
+                },
+                {
+                    "Valor": 337.0,
+                    "Descricao": "180 kg raçao",
+                    "Data": "08/10/2023"
+                }
+            ],
+            "Vendas": [
+                {
+                    "Valor": 144.0,
+                    "Descricao": "8 bandeja(jacson)",
+                    "Data": "04/09/2023"
+                },
+                {
+                    "Valor": 18.0,
+                    "Descricao": "1 bandeja(mercado)",
+                    "Data": "06/09/2023"
+                },
+                {
+                    "Valor": 108.0,
+                    "Descricao": "6 bandeja(jacson)",
+                    "Data": "08/09/2023"
+                },
+                {
+                    "Valor": 72.0,
+                    "Descricao": "4 bandejas(mercado)",
+                    "Data": "08/09/2023"
+                },
+                {
+                    "Valor": 20.0,
+                    "Descricao": "1 bandeja(avelino)",
+                    "Data": "07/09/2023"
+                },
+                {
+                    "Valor": 18.0,
+                    "Descricao": "1 bandeja(mercado)",
+                    "Data": "13/09/2023"
+                },
+                {
+                    "Valor": 108.0,
+                    "Descricao": "6 bandeja beker",
+                    "Data": "11/09/2023"
+                },
+                {
+                    "Valor": 180.0,
+                    "Descricao": "10 bandejas(jacson)",
+                    "Data": "18/09/2023"
+                },
+                {
+                    "Valor": 162.0,
+                    "Descricao": "9 bandejas(jacson)",
+                    "Data": "22/09/2023"
+                },
+                {
+                    "Valor": 54.0,
+                    "Descricao": "3 bandeja(salgado)",
+                    "Data": "21/09/2023"
+                },
+                {
+                    "Valor": 54.0,
+                    "Descricao": "3 bandeja(salgado)",
+                    "Data": "11/09/2023"
+                },
+                {
+                    "Valor": 162.0,
+                    "Descricao": "9 bandejas(mercado&becker)",
+                    "Data": "25/09/2023"
+                },
+                {
+                    "Valor": 216.0,
+                    "Descricao": "1 caixa(jacson)",
+                    "Data": "28/09/2023"
+                },
+                {
+                    "Valor": 216.0,
+                    "Descricao": "1 cx jacson",
+                    "Data": "05/10/2023"
+                },
+                {
+                    "Valor": 54.0,
+                    "Descricao": "3 bandeja  salgado",
+                    "Data": "03/10/2023"
+                },
+                {
+                    "Valor": 90.0,
+                    "Descricao": "5 bandeja beker",
+                    "Data": "09/10/2023"
+                },
+                {
+                    "Valor": 144.0,
+                    "Descricao": "8 bandeja jacson",
+                    "Data": "09/10/2023"
+                },
+                {
+                    "Valor": 54.0,
+                    "Descricao": "3 bandeja mercado",
+                    "Data": "02/10/2023"
+                }
+            ]
+        },
+        "Bois": {
+            "Gastos": [
+                {
+                    "Valor": 18000.0,
+                    "Descricao": "9 garrotes 8@",
+                    "Data": "26/09/2023"
+                },
+                {
+                    "Valor": 120.0,
+                    "Descricao": "vacina",
+                    "Data": "28/09/2023"
+                },
+                {
+                    "Valor": 30.0,
+                    "Descricao": "pesagem",
+                    "Data": "26/09/2023"
+                },
+                {
+                    "Valor": 13125.0,
+                    "Descricao": "7 bezerros(maicom)",
+                    "Data": "20/09/2023"
+                },
+                {
+                    "Valor": 6800.0,
+                    "Descricao": "4 bezzeros 7@(wesley)",
+                    "Data": "21/09/2023"
+                },
+                {
+                    "Valor": 332.5,
+                    "Descricao": "175kg Sal-Proteinado",
+                    "Data": "24/09/2023"
+                },
+                {
+                    "Valor": 3575.0,
+                    "Descricao": "3 bezzeros(Sidnei)",
+                    "Data": "24/09/2023"
+                },
+                {
+                    "Valor": 188.0,
+                    "Descricao": "100 kg sal proteinado",
+                    "Data": "08/10/2023"
+                },
+                {
+                    "Valor": 50.0,
+                    "Descricao": "combustivel",
+                    "Data": "07/10/2023"
+                }
+            ],
+            "Vendas": []
+        },
+        "Hortaliças": {
+            "Gastos": [],
+            "Vendas": [
+                {
+                    "Valor": 8.0,
+                    "Descricao": "alface(mercado)",
+                    "Data": "06/09/2023"
+                },
+                {
+                    "Valor": 7.0,
+                    "Descricao": "chuchu(jacson)",
+                    "Data": "04/09/2023"
+                },
+                {
+                    "Valor": 22.0,
+                    "Descricao": "alface(mercado)",
+                    "Data": "09/09/2023"
+                },
+                {
+                    "Valor": 16.0,
+                    "Descricao": "verdura(mercado)",
+                    "Data": "10/09/2023"
+                },
+                {
+                    "Valor": 35.0,
+                    "Descricao": "mandioca(jacson)",
+                    "Data": "11/09/2023"
+                },
+                {
+                    "Valor": 18.0,
+                    "Descricao": "6 un(mercado)",
+                    "Data": "10/09/2023"
+                },
+                {
+                    "Valor": 32.0,
+                    "Descricao": "alface & couve (mercado)",
+                    "Data": "17/09/2023"
+                },
+                {
+                    "Valor": 10.0,
+                    "Descricao": "5 alface(mercado)",
+                    "Data": "20/09/2023"
+                },
+                {
+                    "Valor": 10.0,
+                    "Descricao": "5 alface(mercado)",
+                    "Data": "23/09/2023"
+                },
+                {
+                    "Valor": 8.75,
+                    "Descricao": "2,5kg mandioca(mercado)",
+                    "Data": "21/09/2023"
+                },
+                {
+                    "Valor": 20.0,
+                    "Descricao": "10 verduras(Mercado)",
+                    "Data": "24/09/2023"
+                },
+                {
+                    "Valor": 24.5,
+                    "Descricao": "7 kg mandioca",
+                    "Data": "02/10/2023"
+                },
+                {
+                    "Valor": 20.0,
+                    "Descricao": "10 pes verdura 2 viagem",
+                    "Data": "02/10/2023"
+                }
+            ]
+        }
+    }
+}
