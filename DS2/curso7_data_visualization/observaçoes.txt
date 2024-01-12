@@ -20,3 +20,13 @@
     na tabela como por exemplo diferenciando valores maiores de 
     valore menores, assim podendo direcionar-lo pra o real ponto
     desejado.
+
+##  Aula 3
+    Criação de histograma facilita a vizualização dos dados presentes
+    porem dependendo da questao a ser resolvida, existem situaçoes 
+    como a enfrentada no projeto em questao, onde foi solicitado 
+    somente a quantidade de compradores acima de 60 anos, onde tira a total
+    nescessidade de um histograma e podendo sim adicionar um card
+    contendo essa informação, sendo assim tiramos como conclusão que 
+    se os dados a serem passados sao simples a se comunicar podemos apenas
+    responder a questao solictada.
