@@ -5,7 +5,7 @@
     dois tipos de dados um o incial que foi fornecido e sera guradado
     no folder dados e o finalizado nofolder projeto
 
-##  Aula 1 
+##  Aula 3_1_finalizado
     Pratica formataçao de tabela observaçoes relevantes
     sempre manter o destaque nos dados ao enves de colocar bordas 
     separando os dados aparentemente esteticamente melhor porem
@@ -14,14 +14,14 @@
     nos titulos da tabela e especificar a unidadde de medida que
     sendo utilizada nos dados.
 
-##  Aula 2
+##  Aula 3_1_finalizado
     Aplicaçao mapa de calor, essa tecnica e utilizada para fornecer
     pistas para o observador sobre postos de intereces presentes
     na tabela como por exemplo diferenciando valores maiores de 
     valore menores, assim podendo direcionar-lo pra o real ponto
     desejado.
 
-##  Aula 3
+##  Aula 3_3_finalizado
     Criação de histograma facilita a vizualização dos dados presentes
     porem dependendo da questao a ser resolvida, existem situaçoes 
     como a enfrentada no projeto em questao, onde foi solicitado 
@@ -30,3 +30,21 @@
     contendo essa informação, sendo assim tiramos como conclusão que 
     se os dados a serem passados sao simples a se comunicar podemos apenas
     responder a questao solictada.
+
+##  Aula 4_1_finalizado
+    Criação de grafico de barras por uma categoria especifica onde
+    fazemos alteraçoes em seu disgne mostrando assim qual o intuito prinsipal
+    quando se trata de trasmitir uma informação, onde nesse exercicio é mostrando
+    que devemos eleminar objetos no grafico que possam distrair o analista como
+    linhas de background, outra informaçao a ser inportante e evitar com que
+    a pessoa que va ler os dados tenha dificulade de acessar informação como por
+    exemplo ter que puxar a informaçao em relaçao ao eixo y, sendo assim no exercicio
+    exemplificado que podemos adicionar legendas no grafico e retirar informaçoes desnecessarias
+
+##  Aula 4_1_finalizado
+    Adicionado variavel tempo para geração de outro graficocom amesma base
+    e fazendo a configuração do mesmo, observamos assim a utilizaçao de um
+    principio de guestalt que se trata da separação por grupos, obs importante
+    ao trabalhar com graficos de multiplas colunas em subconjunto e sempre manter
+    a paleta de cores correta e tambem manter os dados viziveis e nao poluir
+    o hambiente de vizualizaçao com excesso de dados
