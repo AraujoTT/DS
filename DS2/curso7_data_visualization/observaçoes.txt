@@ -1,0 +1,22 @@
+##  Bloco de nota para realizar anotaçoes durante 
+    o desenvolver do curso
+##  Como todo o curso de data visualization foi realizado
+    em uma plataforma externa no caso google sheets, serao importa  dos
+    dois tipos de dados um o incial que foi fornecido e sera guradado
+    no folder dados e o finalizado nofolder projeto
+
+##  Aula 1 
+    Pratica formataçao de tabela observaçoes relevantes
+    sempre manter o destaque nos dados ao enves de colocar bordas 
+    separando os dados aparentemente esteticamente melhor porem
+    distorce a atençao do observador o quanto mais clean melhor
+    .melhorias a serem realizados como por exemplo leve destaque
+    nos titulos da tabela e especificar a unidadde de medida que
+    sendo utilizada nos dados.
+
+##  Aula 2
+    Aplicaçao mapa de calor, essa tecnica e utilizada para fornecer
+    pistas para o observador sobre postos de intereces presentes
+    na tabela como por exemplo diferenciando valores maiores de 
+    valore menores, assim podendo direcionar-lo pra o real ponto
+    desejado.
