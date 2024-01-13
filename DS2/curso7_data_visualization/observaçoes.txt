@@ -48,3 +48,15 @@
     ao trabalhar com graficos de multiplas colunas em subconjunto e sempre manter
     a paleta de cores correta e tambem manter os dados viziveis e nao poluir
     o hambiente de vizualizaçao com excesso de dados
+
+##  Aula 4_2_finalizada
+    apenas aplicada os conceitos anteriormente aprendidos com resalta em 
+    utilizaçao do grafico de barras horizontais, onde persebemos uma melhor
+    vizualizaçao pois como a descriçao de cada barra se trata de nomes podendo
+    assim dificultar a vizualização quando sendo mostrado como barras verticas.
+
+## Aula 4_3_finalizada
+    Criação de grafico de barras empilhadas, onde geralmente utilizada da maneira
+    errada pode dificultar a vizualizaçao porem nesse caso por estarem seguindo o mesmo
+    padrao e escalas encaixaram perfeitamente podendo observar o nivel de satisfação em 
+    porcentagem.
