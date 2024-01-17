@@ -1,0 +1,14 @@
+# Aula1 
+    durante a aula 1 foi apresentado o matplotilib e somenta explanado por
+    cima a utilizaçao da função plot e de como adicionar titulo na figura
+    ou como almentar a tamanho da imagen que ira ser mostrada no jupyter
+
+# Aula 2
+    Na aula foi inicilmente introduzido a utilizaçao da situaçoes ipoteticas
+    fig e eixo onde fig inicialmente seta o tamanho da amostra da figura e 
+    eixo determina o eixo de amostragem da figura com a utilizaçao de ambos 
+    as variaveis abrimos um lek de utilizaçao avançadas que no caso foi começado
+    a introduzir na aula, como sao eles a possibilidade de adicionar legenda,
+    titulo para eixo, cor de grafico, e tamanho de fonte.
+    documentação de cores: https://matplotlib.org/stable/gallery/color/named_colors.html
+
