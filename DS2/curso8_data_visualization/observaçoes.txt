@@ -12,3 +12,13 @@
     titulo para eixo, cor de grafico, e tamanho de fonte.
     documentação de cores: https://matplotlib.org/stable/gallery/color/named_colors.html
 
+# Aula 3
+    Aprendendo utilizar mecanismos dentro da melhoria de viualizaçao/modificaçoes
+    como por exemplo diminuir a expesura da linha, trasejado, definir um limite maximo para 
+    o grafico assim exibindo somente um periodo que vc deseja exibir, fazer com que cada 
+    ponto seja sinalizado ou adicionar grid na back do grafico
+
+# Aula 4 
+    Utilizando a criaçao de um segundo eixo dentro da mesma fig para que tenha uma visualizaçao
+    de 2 ou mais graficos dentro da mesma fig sendo assim podendo configurar ambas as duas figuras
+    independetes, assim podendo obter duas visualizaçoes podendo complementa-las.
