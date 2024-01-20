@@ -22,3 +22,9 @@
     Utilizando a criaçao de um segundo eixo dentro da mesma fig para que tenha uma visualizaçao
     de 2 ou mais graficos dentro da mesma fig sendo assim podendo configurar ambas as duas figuras
     independetes, assim podendo obter duas visualizaçoes podendo complementa-las.
+
+# Aula 5
+    Durante a aula alem de aplicar conhecimentos ja explicados anterirormente como a aplicaçao de 
+    limite em eixo como feito na aula anteriror no eixo x agora utilizando no eixo y para uma melhoria
+    na visualizaçao para evitar sobreposiçao, aprendemos como marcar um grafico no segundo eixo 
+    sobrepondo a coloraçao anterior.
