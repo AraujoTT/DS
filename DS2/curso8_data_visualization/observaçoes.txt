@@ -28,3 +28,9 @@
     limite em eixo como feito na aula anteriror no eixo x agora utilizando no eixo y para uma melhoria
     na visualizaçao para evitar sobreposiçao, aprendemos como marcar um grafico no segundo eixo 
     sobrepondo a coloraçao anterior.
+
+# AUla 6 & 7
+    Durante as aulas foram abordados conhecimento referente a aplicaçao de antaçoes no grafico tanto
+    colocando sobre o eixo de descriçao, como na aula 6 onde foi colocado sobre o ponto maximo de 
+    resultado obtido no grafico como tambem fizemos aplicaçao de anotaçoes utilizando texto e seta para referenciar
+    o ponto exato de necessidade de anotaçao.
