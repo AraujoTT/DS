@@ -34,3 +34,10 @@
     colocando sobre o eixo de descriçao, como na aula 6 onde foi colocado sobre o ponto maximo de 
     resultado obtido no grafico como tambem fizemos aplicaçao de anotaçoes utilizando texto e seta para referenciar
     o ponto exato de necessidade de anotaçao.
+
+# Aula 8 
+    Na aula em questao foi abordado a criaçao de graficos alem do plot como por exemplo o grafico de pizza e
+    o grafico de barras, como tambem colorilos adicionar ticks, e no grafico de pizza foi ensinado como
+    explodir elementos para tornalos melhor visivelemente e tambem como adicionar persentagem no nteriror dos pedaços
+    como tambem sombra nos mesmos.
+    
