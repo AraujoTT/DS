@@ -40,4 +40,12 @@
     o grafico de barras, como tambem colorilos adicionar ticks, e no grafico de pizza foi ensinado como
     explodir elementos para tornalos melhor visivelemente e tambem como adicionar persentagem no nteriror dos pedaços
     como tambem sombra nos mesmos.
-    
+
+# Aula 9 & 10
+    Durante as aulas foram abordados formaz de vizualizaçao utilizando matplotlib, os metodos abordados foram utilizando
+    boxplot e histograma onde um facilita a visualizaçao de distribuição e nessa csa conseguimos alterar diversos 
+    aspectos do grafico de caixa utilizando loop para trocar a cor interna da caixa ja que estamos plotando diversos graficos 
+    no mesmo eixo, e tambem utilizando a mesma tecnicaconsegimos trocar os marcadores, ja quando plotamos o histogrma 
+    podemos visualizar a mesma informaçao do grafico de caixa so que com masi riqueza de detalher como a possibilidade de
+    normalizaçao de dados ou tambem utilizando o argumento bins distribuir o grafico em uma maior quantida de colunas.
+
